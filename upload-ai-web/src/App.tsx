@@ -33,7 +33,15 @@ export function App() {
           <p className="text-sm text-muted-foreground">Lembre-se: você pode utilizar a variável <code className="text-violet-400">{"{transcription}"}</code> no seu prompt para adicionar conteúdo da transcrição do vídeo selecionado.
           </p>
         </div>
-        <aside className="w-80"></aside>
+        <aside className="w-80 space-y-6">
+          <form className="space-y-6">
+            <label className="border flex rounded-md aspect-video cursor-pointer border-dashed text-sm flex-col gap-2 items-center justify-center text-muted-foreground hover:bg-primary/5"
+                   htmlFor="video">
+              Carregar vídeo
+            </label>
+            <input type="file" id="video" accept="video/mp4" className="sr-only" />
+          </form>
+        </aside>
       </main>
     </div>
   );
