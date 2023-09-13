@@ -1,0 +1,7 @@
+# @name HealthCheck
+GET http://localhost:3333
+
+###
+
+# @name ListAllPrompts
+GET http://localhost:3333/prompts
