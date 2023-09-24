@@ -6,5 +6,3 @@ A aplicação desenvolvida se trata de um automatizador de upload de vídeos no 
 
 - Após a conversão do vídeo para áudio, o sistema irá realizar a transcrição do áudio em texto para que a IA consiga sugerir descrições e/ou títulos do vídeo de maneira precisa.
 
-- Além disso, 
-
