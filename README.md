@@ -1,6 +1,11 @@
 # Projeto
 A aplicação desenvolvida se trata de um automatizador de upload de vídeos no YouTube. O objetivo é encarregar a Inteligência Artificial de gerar conteúdos em texto sugerindo títulos e descrições de um vídeo a ser enviado no YouTube, otimizando o trabalho do produtor. 
 
+![image](https://github.com/VictorMello1993/nlw-ia-mastery/assets/35710766/a6207db7-910c-414b-8951-bc627d0d8906)
+
+
+
+
 # Funcionamento
 - Para cumprir o objetivo proposto, primeiramente o usuário seleciona um vídeo salvo no seu computador. Uma vez selecionado, o sistema irá converter o arquivo de vídeo para o arquivo de áudio no formato .mp3. O formato de vídeo selecionado deverá ser .mp4.
   
