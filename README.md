@@ -46,5 +46,9 @@ npm run dev
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/14680146-7d985ba3-7a04-4bd2-9368-cd4019a8ab27?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D14680146-7d985ba3-7a04-4bd2-9368-cd4019a8ab27%26entityType%3Dcollection%26workspaceId%3D08f9f37b-6d23-473a-8290-857c03b08b5c#?env%5BNew%20Environment%5D=W3sia2V5IjoiYmFzZVVybCIsInZhbHVlIjoiaHR0cDovL2xvY2FsaG9zdDozMzMzIiwiZW5hYmxlZCI6dHJ1ZSwidHlwZSI6ImRlZmF1bHQifV0=)
 
 
+# Possíveis melhorias
+* [ ] Barra de progresso da conversão do vídeo para áudio e da transcrição do áudio
+* [ ] Inclusão de um componente Select para selecionar os vídeos existentes, evitando de ter que selecionar sempre um vídeo novo
+
 # Versões do README
 <img src="https://user-images.githubusercontent.com/35710766/123499283-02365980-d60c-11eb-8731-9e9f42d300f0.png" alt="Bandeira do Brasil" width="22px"/> <a href="/README-EN.md">Inglês</a> | <img src="https://user-images.githubusercontent.com/35710766/123499278-ffd3ff80-d60b-11eb-85d5-156558ade93a.jpg" alt="Bandeira dos Estados Unidos" width="22px"/> <a href="/README.md">Português</a>
