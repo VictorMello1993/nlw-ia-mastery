@@ -40,3 +40,5 @@ npm run dev
 # Endpoints para importar
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=NLW%20IA%20Mastery&uri=https%3A%2F%2Fgist.githubusercontent.com%2FVictorMello1993%2F7bcbe0b304929792e5f995e8da0900cd%2Fraw%2F5b8aac1937ff37ecf55b53e8dd7e897925ac87e6%2FInsomnia_2023-09-24.json)
 
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/14680146-7d985ba3-7a04-4bd2-9368-cd4019a8ab27?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D14680146-7d985ba3-7a04-4bd2-9368-cd4019a8ab27%26entityType%3Dcollection%26workspaceId%3D08f9f37b-6d23-473a-8290-857c03b08b5c#?env%5BNew%20Environment%5D=W3sia2V5IjoiYmFzZVVybCIsInZhbHVlIjoiaHR0cDovL2xvY2FsaG9zdDozMzMzIiwiZW5hYmxlZCI6dHJ1ZSwidHlwZSI6ImRlZmF1bHQifV0=)
